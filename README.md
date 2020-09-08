@@ -1,3 +1,3 @@
 # aLCohlic
 Pull your booze submissions.
-Truly inspired from dhananjay1210
+Credits to dhananjay1210
